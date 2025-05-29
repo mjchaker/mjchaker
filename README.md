@@ -1,18 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on _Structure and Interpretation of Comptuer Programs (SICP)_ by Harold Abelson and Gerald Jay Sussman
-- 🌱 I’m currently learning Scheme
-- 👯 I’m looking to collaborate on the exercises in SICP
-- 🤔 I’m looking for help with how to use VSCode
-- 💬 Ask me about single-variable calculus and linear algebra
-- 📫 How to reach me: Call me or text me
-- 😄 Pronouns: he/him 
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning how to build abstractions with procedures and data
+- 👯 I’m looking to collaborate on software projects
+- 🤔 I’m looking for help with prompt engineering
+- 💬 Ask me about applied mathematics
+- 📫 How to reach me: Email me at contact@chaker.tech or DM me on 𝕏.
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I was born in Dubai
-
-<!--
-**mjchaker/mjchaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
